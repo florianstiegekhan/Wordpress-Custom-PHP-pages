@@ -1,4 +1,4 @@
-# Wordpress-Custome-PHP-pages
+# Wordpress-Custom-PHP-pages
 
 Add New Product with a  'wizard style prompt' guides the user to input information to add a new product to the database. 
 The Code includes the code to run the calculations to fill in the necessary calculations. 
